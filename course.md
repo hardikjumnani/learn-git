@@ -144,7 +144,7 @@ so I did some more research and cleared it out]]
 - `git remote -v` - to view if any connection to GH remote is made
 - `git remote add <name> <url>` - connect to <url> and push your remote as the <name>
 - `git remote rename <oldname> <newname>` - to change remote name
-- `git remove remove <name>` - removes remote
+- `git remote remove <name>` - removes remote
 
 `git push` - push remote to GH
 - `git push <remote> <branch>` - push main to GH! &emsp;&emsp;&emsp; OR
